@@ -1,6 +1,6 @@
 class Projects
   
-  attr_reader :backers, :title
+  attr_reader  :title
   
   def initialize(title)
     
