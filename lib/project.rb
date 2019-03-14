@@ -1,4 +1,4 @@
-  class Projects
+class Projects
   
   def initialize(backers)
     
@@ -6,4 +6,4 @@
   
     end
     
-  end
+end
